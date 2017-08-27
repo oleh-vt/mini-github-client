@@ -1,0 +1,11 @@
+{
+  "name": "github-client",
+  "version": "1.0.0",
+  "description": "mini github client",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "author": "_olezhka",
+  "license": "ISC"
+}
